@@ -26,7 +26,7 @@ public class XmapController {
 	@Autowired
 	private XmapSerInt xpsService;	
 	@Autowired
-	private ProdSerInt productService;
+	private ProdSerInt productService;//product
 	
 	@Autowired
 	private SuppSerInt supplierService;
