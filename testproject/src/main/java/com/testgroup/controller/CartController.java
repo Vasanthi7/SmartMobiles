@@ -32,7 +32,7 @@ import com.testgroup.service.XmapSerInt;
 		
 		@Autowired
 		private CustomerSerInt customerService;
-		
+		//it is a sevice
 		@Autowired
 		private CartServiceInt cartService;
 		
